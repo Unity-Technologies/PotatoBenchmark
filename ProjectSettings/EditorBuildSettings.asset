@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Tests/Scenes/000 - Menu.unity
+    guid: 3248725380ee6894ea5f051266e3e936
+  - enabled: 1
+    path: Assets/Tests/Scenes/001 - FillRate (Lit Shader - Directional Light).unity
+    guid: 5321492428c33db4db81342ca8da319b
+  - enabled: 1
+    path: Assets/Tests/Scenes/002 - FillRate (Lit Shader - Multiple Lights).unity
+    guid: 8d65e7263d49aea4dad06fbbe0b9f438
+  - enabled: 1
+    path: Assets/Tests/Scenes/003 - Realtime Shadows.unity
+    guid: 175f0a6d932b3e344bdbea091977f962
+  - enabled: 1
+    path: Assets/Tests/Scenes/004 - Realtime Shadows Cascades.unity
+    guid: 2d234c435b6dc9249ab08ed8ac90d6c9
+  - enabled: 1
+    path: Assets/Tests/Scenes/005 - Batching.unity
+    guid: c7b65b736143a114fbc29ba363fbb437
+  - enabled: 1
+    path: Assets/Tests/Scenes/007 - Bandwidth.unity
+    guid: 23397338bcea048f99e05acffb1b23b9
+  - enabled: 1
+    path: Assets/Tests/Scenes/008 - FillRate (Terrain).unity
+    guid: 9f11773aac25a47ab924f6dddac25a70
+  - enabled: 1
+    path: Assets/Tests/Scenes/101 - FillRate (Lit Shader - Directional Light).unity
+    guid: 7969d6db2e7c2384f9767449fac89c25
+  - enabled: 1
+    path: Assets/Tests/Scenes/102 - FillRate (Lit Shader - Multiple Lights).unity
+    guid: d1565f283bfa5d046addb589349b877c
+  - enabled: 1
+    path: Assets/Tests/Scenes/103 - Realtime Shadows.unity
+    guid: c46482b6742c46b4085fee0a9e5f3410
+  - enabled: 1
+    path: Assets/Tests/Scenes/104 - Realtime Shadows Cascades.unity
+    guid: 02071a874c1f7ae40afa12d5fc6a2e3d
+  - enabled: 1
+    path: Assets/Tests/Scenes/105 - Batching.unity
+    guid: 6666a8ac1d1484745a8d228296312aa1
+  - enabled: 1
+    path: Assets/Tests/Scenes/107 - Bandwidth.unity
+    guid: 3d153dc45ae7d4126b0874cc0ad447ca
+  - enabled: 1
+    path: Assets/Tests/Scenes/108 - FillRate (Terrain).unity
+    guid: 6103c38a3d5384201874ac2402ee2d0b
+  m_configObjects: {}
