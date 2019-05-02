@@ -66,14 +66,14 @@ public class RuntimePerformanceTests
     [Version(version)]
     public IEnumerator _007_Bandwidth()
     {
-        yield return RunTestScene(PipelineDefine.LWRP, 6);
+        yield return RunTestScene(PipelineDefine.LWRP, 5);
     }
     
     [PerformanceUnityTest]
     [Version(version)]
     public IEnumerator _008_FillRate_Terrain()
     {
-        yield return RunTestScene(PipelineDefine.LWRP, 7);
+        yield return RunTestScene(PipelineDefine.LWRP, 6);
     }
 
     [PerformanceUnityTest]
@@ -115,14 +115,14 @@ public class RuntimePerformanceTests
     [Version(version)]
     public IEnumerator _107_Bandwidth()
     {
-        yield return RunTestScene(PipelineDefine.Builtin, 6);
+        yield return RunTestScene(PipelineDefine.Builtin, 5);
     }
     
     [PerformanceUnityTest]
     [Version(version)]
     public IEnumerator _108_FillRate_Terrain()
     {
-        yield return RunTestScene(PipelineDefine.Builtin, 7);
+        yield return RunTestScene(PipelineDefine.Builtin, 6);
     }
 
     IEnumerator RunTestScene(PipelineDefine pipeline, int testIndex)
